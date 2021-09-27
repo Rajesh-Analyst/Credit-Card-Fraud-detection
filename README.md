@@ -11,3 +11,4 @@ Algorithm : The algorithm used in this dataset is Random Forest algorithm. For m
 Visualisation : The library used for visualizing the data, confusion matrix etc. is seaborn.
 
 This code is prepared using Jupyter Notebook and google colab
+Data set : https://www.kaggle.com/mlg-ulb/creditcardfraud
